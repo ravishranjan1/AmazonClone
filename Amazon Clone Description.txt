@@ -1,0 +1,18 @@
+Description :
+The Amazon Clone is a fully responsive e-commerce web application that replicates the core layout and design of the official Amazon website. 
+Built with a focus on user interface and user experience, this project demonstrates my skills in modern frontend development, including component-based architecture, responsive design, and user interaction handling.
+
+Key Features :
+Header section with logo, search bar, and navigation links. 
+Hero section with sliding banner (static image-based. 
+Product grid layout showing categories and deals. 
+Footer with links and information similar to Amazon. 
+Fully responsive layout for desktop and mobile views. 
+Clean and organized code structure.
+
+What I Learned :
+Semantic HTML for structured web pages.
+CSS Flexbox and Grid for layout design.
+Responsive web design using media queries.
+Styling components to match a real-world design.
+Building real websites from scratch using only frontend tools.
